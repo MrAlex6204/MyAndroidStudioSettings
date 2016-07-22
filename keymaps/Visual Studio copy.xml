@@ -18,8 +18,12 @@
     <keyboard-shortcut first-keystroke="ctrl colon" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="IntroduceConstant" />
   <action id="MethodDown" />
