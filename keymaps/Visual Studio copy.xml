@@ -34,6 +34,7 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="QuickJavaDoc" />
   <action id="RebuildGradleProject">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
@@ -55,5 +56,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToolWindowsGroup">
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
 </keymap>
